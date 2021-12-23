@@ -13,7 +13,7 @@
 [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
 
-Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
+*Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu] \n
 *Email*:shixinchen@smail.nju.edu.cn \n
 ~~~
 
@@ -22,7 +22,7 @@ Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
 {{<a href="https://www.linkedin.com/in/%E6%97%B6%E9%91%AB-%E9%99%88-163401217/" target="<u>blank"><img src="img/linkedin.png" height=30></a>}} {{<a href="https://github.com/ShixinChen1999" target="<u>blank"><img src="img/github-3.png" height=30></a>  }}
 
 == Biography
-I am currently an undergraduate (senior) at [https://ese.nju.edu.cn/ese_en/main.htm the School of Electronic Science and Engineering], [https://www.nju.edu.cn/EN/ Nanjing University].\n Next year, I am going to pursue my Ph.D. at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], 
+I am currently an undergraduate (senior) at [https://ese.nju.edu.cn/ese_en/main.htm the School of Electronic Science and Engineering], [https://www.nju.edu.cn/EN/ Nanjing University].\n Next year, I will pursue my Ph.D. at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)],\n 
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2022. 
 
 #== Contact
@@ -48,7 +48,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 #
 #- \[C1\] Haoyu Yang, Shifan Zhang, Kang Liu, *Siting Liu*, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young, “Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan. 18–21, 2021.
 
-Hope some good news.
+Hope for some good news.
 
 == Education
 - Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong],
@@ -65,7 +65,7 @@ Hope some good news.
 === SmartMore
 - Research Intern, Heterogeneous Computing Group
 - Jul. 2021 – Now, Shen Zhen site
-- Topic: Hardware Generator Accelaration for Super-Resolution Neural Network
+- Topic: Hardware Generator Acceleration for Super-Resolution Neural Network
 
 == Skills
 - Languages: C, SystemVerilog, Chisel, Python
