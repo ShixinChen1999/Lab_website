@@ -1,7 +1,8 @@
-# jemdoc: addcss{jemdoc.css}
-# jemdoc: addcss{myMiddle.css}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{ccs/myMiddle.css}
 # jemdoc: nofooter
 # jemdoc: title{Shixin CHEN -- CSE CUHK}
+
 
 ~~~
 {}{img_left}{img/shixin.jpg}{}{150}{Shixin CHEN}
