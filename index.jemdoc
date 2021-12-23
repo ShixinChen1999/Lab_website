@@ -1,8 +1,7 @@
 # jemdoc: addcss{jemdoc.css}
 # jemdoc: addcss{myMiddle.css}
 # jemdoc: nofooter
-
-= Shixin CHEN -- CUHK
+# jemdoc: title{Shixin CHEN -- CSE CUHK}
 
 ~~~
 
