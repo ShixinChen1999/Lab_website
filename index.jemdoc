@@ -32,9 +32,9 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 
 == Research Interest
+- Artificial Intelligence
 - Harware&Software Co-design
 - Machine Learning in EDA
-- Artificial Intelligence
 
 == Publication
 #- \[C6\] *Siting Liu*, Peiyu Liao, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
@@ -55,7 +55,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)],
   since Aug 2022 (expected) 
 - B.S.  (Elite class), VLSI Design and System Integration,
-  [https://www.nju.edu.cn/EN/ Nanjing University(NJU)], Sept 2018 - June 2022
+  [https://www.nju.edu.cn/EN/ Nanjing University (NJU)], Sept 2018 - June 2022
 
 == Selected Awards
 
@@ -66,14 +66,16 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 
 == Experiences
-=== SmartMore Co.Ltd
+=== [https://smartmore.global/ SmartMore Co.Ltd]
 - Research Intern, Heterogeneous Computing Group
 - Jul. 2021 – Now, Shen Zhen site
-- Topic: Hardware Generator Acceleration for Super-Resolution Neural Network
+- Topic: Hardware Generator for Super-Resolution Neural Network
 
 == Skills
 - Languages: C, SystemVerilog, Chisel, Python
 - Tools    : Xilinx Vivado, PyTorch, LaTeX
 
+== Resources
+- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Introduce_to_Chisel.pdf sildes])
 
 
