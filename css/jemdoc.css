@@ -5,12 +5,31 @@ table#tlayout {
     border-collapse: separate;
     background: white;
 }
-
+/*
 body {
 	background: white;
-	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
+}
+*/
+html {
+  background-color: #eeeeee; 
+}
+
+body { 
+  font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+  color: #000;
+  background-color: #ffffff; 
+  text-align:left; /* for IE */
+  margin-top: 30px; 
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left:  50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  max-width: 960px;
 }
 
 #layout-menu {
@@ -32,7 +51,7 @@ body {
 }
 
 #layout-content {
-	padding-top: 1.0em;
+	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
@@ -60,11 +79,9 @@ a, a > tt {
 	text-decoration: none;
 }
 
-/*
 a:hover {
 	border-bottom: 1px gray dotted;
 }
-*/
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
 	color: #022b6d;
@@ -79,7 +96,7 @@ a:hover {
 }
 
 div.menu-category {
-	/*border-bottom: 1px solid gray;*/
+	border-bottom: 1px solid gray;
 	margin-top: 0.8em;
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
@@ -94,12 +111,12 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 3px double gray;
+	/*border-bottom: 3px double gray;*/
 }
 
 /* Reduce space if we begin the page with a title. */
 div#toptitle + h2, div#toptitle + h3 {
-	margin-top: -0.7em;
+	margin-top: 0em;
 }
 
 div#subtitle {
@@ -121,7 +138,7 @@ strong {
 h1, h2, h3 {
 	color: #527bbd;
 	margin-top: 0.7em;
-	margin-bottom: 0.3em;
+	margin-bottom: 0.5em;
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
@@ -130,6 +147,7 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 165%;
+	padding-bottom: 0.3em;
 }
 
 h2 {
@@ -207,8 +225,8 @@ p + ul, p + ol {
 	margin-top: -0.5em;
 }
 
-li ul, li ol {
-	margin-top: -0.3em;
+li {
+	margin-top:0.9em;
 }
 
 ol {
@@ -335,20 +353,6 @@ img.eqwl {
 	padding-top: 0.6em;
 	padding-bottom: 0.2em;
 	margin: 0;
-}
-
-table {
-    #border: 2px solid black;
-    border-collapse: collapse;
-}
-
-td {
-    padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-#   text-align: center;
-    text-align: left;
-    border: 1px solid gray;
 }
 
 table + table {
