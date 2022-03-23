@@ -22,13 +22,13 @@
 
 
 == Biography
-I am currently an undergraduate (senior) at [https://ese.nju.edu.cn/ese_en/main.htm the School of Electronic Science and Engineering], [https://www.nju.edu.cn/EN/ Nanjing University].\n Next year, I will pursue my Ph.D. at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)],\n 
+I am currently an undergraduate (senior) at [https://ese.nju.edu.cn/ese_en/main.htm the School of Electronic Science and Engineering], [https://www.nju.edu.cn/EN/ Nanjing University].\n I will pursue my Ph.D. at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)],\n 
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2022. 
 
 == Recent News
 ~~~
-- Dec/2021: I am awarded the honor of Person of the Year (2021), only 10 awardees from all graduates and postgraduates at NJU. ([http://sxchen.cn/resource/news/the_person_of_the_year_list.pdf Awardee-List]) ([http://sxchen.cn/img/news/the_person_of_year.jpg photo]) ([https://mp.weixin.qq.com/s/33NUJbixKzUVoh4LIVSTmw NJU-news])
-- Nov/2021: I am awarded the honor of the Dongliang Special Scholarship (栋梁特等奖学金), only 12 awardees from all graduates at NJU. ([http://sxchen.cn/img/news/The_Top_Sch_NJU.png Awardee-List]) ([http://sxchen.cn/img/news/the_top_schalor.jpg photo]) ([https://mp.weixin.qq.com/s/zZi7AFy2ZfRZzO1JxtF_0Q NJU-news])
+- Dec/2021: I am awarded the honor of Person of the Year (2021), 10 awardees from all graduates and postgraduates at NJU. ([http://sxchen.cn/resource/news/the_person_of_the_year_list.pdf Awardee-List]) ([http://sxchen.cn/img/news/the_person_of_year.jpg photo]) ([https://mp.weixin.qq.com/s/33NUJbixKzUVoh4LIVSTmw NJU-news])
+- Nov/2021: I am awarded the honor of the Dongliang Special Scholarship, 12 awardees from all graduates at NJU. ([http://sxchen.cn/img/news/The_Top_Sch_NJU.png Awardee-List]) ([http://sxchen.cn/img/news/the_top_schalor.jpg photo]) ([https://mp.weixin.qq.com/s/zZi7AFy2ZfRZzO1JxtF_0Q NJU-news])
 ~~~
 
 
@@ -59,10 +59,9 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
   [https://www.nju.edu.cn/EN/ Nanjing University (NJU)], Sept 2018 - June 2022
 
 == Selected Awards
-~~~
 - The Star of Self-Improvement of Chinese College Students, Central Committee of the Communist Youth League & National Union of Students, 2021
 - The Person of the Year                                  , NJU                        ,2021       
-- The Dongliang Special Scholarship (栋梁特等奖学金)       , NJU                        ,2021 
+- The Dongliang Special Scholarship                       , NJU                        ,2021 
 - The Merit of Execllent Students                         , NJU                        ,2020
 - The Yang Lanyun Leadership Scholarship                  , NJU                        ,2020 
 - National Encouragement Scholarship                      , Education Ministry, PRC    ,2020 2021
@@ -70,9 +69,6 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - Sichuan Chamber of Commerce Scholarship                 , Sichuan Chamber of Commerce of Jangsu, 2019 
 - [http://sxchen.cn/resource/NS.pdf National Scholarship] , [http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html Education Ministry], PRC    ,2019 
  
-
-~~~
-
 == Experiences
 === [https://smartmore.global/ SmartMore Co.Ltd]
 - Research Intern, Heterogeneous Computing Group
@@ -84,6 +80,6 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - Tools    : Xilinx Vivado, PyTorch, LaTeX
 
 == Resources
-- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Introduce_to_Chisel.pdf sildes])
+- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf sildes])
 
 
