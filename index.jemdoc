@@ -55,24 +55,22 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - Looking forward to some good news.
 
 == Education
-- Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)],
-  since Aug 2022
-- B.S.  (Elite class), VLSI Design and System Integration,
-  [https://www.nju.edu.cn/EN/ Nanjing University (NJU)], Sept 2018 - June 2022
+- Ph.D. Computer Science and Engineering, CUHK, Aug 2022 - Now
+- B.Eng.  (Elite class), VLSI Design and System Integration,NJU, Sept 2018 - June 2022
 
 == Selected Awards
 ~~~
 {}{table}{noborder}
- Outstanding Graduate                                     | The Education Department of Jiangsu Province                                                    | 2022 ||
- Hong Kong PhD Fellowship Schlorship                      | Hong Kong, RGC                                                                                  | 2022 ||         
- The Star of Self-Improvement                             | National Union of Students                                                                      | 2021           ||  
+ Outstanding Graduate                                     | The Education Department, Jiangsu Province                                                    | 2022 ||
+ Hong Kong PhD Fellowship Schlorship                      | Research Grant Council, Hong Kong                                                                                  | 2022 ||         
+ The Star of Self-Improvement                             | National Union of Students, PRC                                                                      | 2021           ||  
  The Person of the Year                                   | NJU                                                                                             | 2021       ||
  The Dongliang Special Scholarship                        | NJU                                                                                             | 2021 ||
  The Merit of Execllent Students                          | NJU                                                                                             | 2020||
  The Yang Lanyun Leadership Scholarship                   | NJU                                                                                             | 2020 ||
  National Encouragement Scholarship                       | Education Ministry, PRC                                                                         | 2020 2021||
  People's Schlorship                                      | NJU                                                                                             | 2019 2020 2021||
- Sichuan Chamber of Commerce Scholarship                  | Sichuan Chamber of Commerce of Jangsu                                                           | 2019           ||    
+ Sichuan Chamber of Commerce Scholarship                  | Sichuan Chamber of Commerce， jiangsu                                                           | 2019           ||    
  [http://sxchen.cn/resource/NS.pdf National Scholarship] | [http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html Education Ministry], PRC  | 2019           ||   
 ~~~
  
@@ -81,7 +79,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 *[https://smartmore.global/ SmartMore Co.Ltd]*
 - Research Intern, Heterogeneous Computing Group
 - Jul. 2021 – Now, Shen Zhen site
-- Topic: Hardware Generator for Super-Resolution Neural Network
+- Topic: Hardware&Software Co-Optimization
 
 == Skills
 - Languages: C, SystemVerilog, Chisel, Python
