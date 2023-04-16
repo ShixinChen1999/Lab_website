@@ -35,8 +35,8 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 
 == Research Interest
-- Artificial Intelligence
-- Harware&Software Co-design
+- Harware&Software Co-optimization
+- Agile Hardware Design
 - Machine Learning in EDA
 
 == Publication
@@ -71,7 +71,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
  National Encouragement Scholarship                       | Education Ministry, PRC                                                                         | 2020 2021||
  People's Schlorship                                      | NJU                                                                                             | 2019 2020 2021||
  Sichuan Chamber of Commerce Scholarship                  | Sichuan Chamber of Commerce， jiangsu                                                           | 2019           ||    
- [http://sxchen.cn/resource/NS.pdf National Scholarship] | [http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html Education Ministry], PRC  | 2019           ||   
+  National Scholarship                                    | [http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html Education Ministry], PRC  | 2019           ||   
 ~~~
  
  
@@ -86,9 +86,12 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - Tools    : Xilinx Vivado, PyTorch, LaTeX
 - Hobbies  : [http://sxchen.cn/resource/photos/guitar_with_me.jpeg Guitar]
 
-== Presentations
-- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf slides])
-- A Brief Introduction to Gemmini ([http://sxchen.cn/resource/slides/Intro_to_Gemmini.pdf slides])
+== Teaching
+- CSCI3420, 2023-Spring, Computer Organiztaion and Design([http://www.cse.cuhk.edu.hk/~byu/CENG3420/2023Spring/index.html]) 
+
+== Presentation
+#- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf slides])
+#- A Brief Introduction to Gemmini ([http://sxchen.cn/resource/slides/Intro_to_Gemmini.pdf slides])
 - Design of DNN Accelerator Based on Winograd Algorithm using Chisel ([http://sxchen.cn/resource/slides/Winograd_Accelerator.pdf slides])
 
 
