@@ -80,7 +80,7 @@ I obtained my high school diploma in Shishi Senior High School.
 - Topic: Hardware Accelerator for Super-resolution Video
 
 == Skills
-- Software Languages: C, C++, Python, Bash
+- Software Languages: C, C\+\+, Python, Bash
 - Hardware Languages: SystemVerilog, Chisel
 - Tools    : Xilinx Vivado, PyTorch, LaTeX
 - Frameworks: [https://chipyard.readthedocs.io/en/latest/ Chipyard], [https://www.gem5.org/ Gem5]
@@ -88,7 +88,7 @@ I obtained my high school diploma in Shishi Senior High School.
 
 == Teaching
 - CSCI2010, 2023-Fall, Digital Logic Design Laboratory
-- CSCI3420, 2023-Spring, ([http://www.cse.cuhk.edu.hk/~byu/CENG3420/2023Spring/index.html Computer Organiztaion and Design]) 
+- CSCI3420, 2023-Spring, [http://www.cse.cuhk.edu.hk/~byu/CENG3420/2023Spring/index.html Computer Organiztaion and Design]
 
 == Presentation
 #- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf slides])
