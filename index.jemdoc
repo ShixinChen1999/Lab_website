@@ -25,12 +25,12 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 == Recent News
 ~~~
-- Jun/2023: Two papers were submitted to ICCAD 2023.
-- Aug/2022: I start my Ph.D. study in Hong Kong.
-- Jun/2022: I graduated with the honor of Outstanding Graduate of Jiangsu Province.
-- Apr/2022: I am awarded the Hong Kong PhD Fellowship Scholarship since 2022.
-- Dec/2021: I am awarded the honor of Person of the Year (2021), 10 awardees from all undergraduates and postgraduates at NJU. ([http://sxchen.cn/img/news/the_person_of_year.jpg photo]) ([https://mp.weixin.qq.com/s/33NUJbixKzUVoh4LIVSTmw NJU-news])
-- Nov/2021: I am awarded the honor of the Dongliang Special Scholarship, 12 awardees from all undergraduates at NJU. ([https://mp.weixin.qq.com/s/zZi7AFy2ZfRZzO1JxtF_0Q NJU-news])
+- Sept/2023: One papers were accepted by ASP-DAC 2024.
+- Aug/2022:  I start my Ph.D. study in Hong Kong.
+- Jun/2022:  I graduated with the honor of Outstanding Graduate of Jiangsu Province.
+- Apr/2022:  I am awarded the Hong Kong PhD Fellowship Scholarship since 2022.
+- Dec/2021:  I am awarded the honor of Person of the Year (2021), 10 awardees from all undergraduates and postgraduates at NJU. ([http://sxchen.cn/img/news/the_person_of_year.jpg photo]) ([https://mp.weixin.qq.com/s/33NUJbixKzUVoh4LIVSTmw NJU-news])
+- Nov/2021:  I am awarded the honor of the Dongliang Special Scholarship, 12 awardees from all undergraduates at NJU. ([https://mp.weixin.qq.com/s/zZi7AFy2ZfRZzO1JxtF_0Q NJU-news])
 ~~~
 
 == Education
@@ -45,8 +45,11 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - Machine Learning in EDA
 
 == Publication
+*Conference Paper*
+- [C1]  *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao Shuo Yin, Yang Bai, Bei Yu, "SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design", accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)
 
-- Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, Shixin Chen, Zixiao Wang, Bei Yu, “GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+*Journal Paper*
+- [J1] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, *Shixin Chen*, Zixiao Wang, Bei Yu, "GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
 == Awards
 ~~~
