@@ -46,10 +46,10 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 == Publication
 *Conference Paper*
-- [C1]  *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao Shuo Yin, Yang Bai, Bei Yu, "SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design", accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)
+- \[C1\]  *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao Shuo Yin, Yang Bai, Bei Yu, "SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design", accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)
 
 *Journal Paper*
-- [J1] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, *Shixin Chen*, Zixiao Wang, Bei Yu, "GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- \[J1\] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, *Shixin Chen*, Zixiao Wang, Bei Yu, "GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
 == Awards
 ~~~
