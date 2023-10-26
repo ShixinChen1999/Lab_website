@@ -25,7 +25,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 == Recent News
 ~~~
-- Sept/2023: One papers is accepted by ASPDAC 2024.
+- Sept/2023: *Congratulation!* Our work on DNN-targeting SoC design has been accepted by ASP-DAC!
 - Aug/2022:  I start my Ph.D. study in Hong Kong.
 - Jun/2022:  I graduated with the honor of Outstanding Graduate of Jiangsu Province.
 - Apr/2022:  I am awarded the Hong Kong PhD Fellowship Scholarship since 2022.
@@ -46,10 +46,10 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 == Publication
 *Conference Paper*
-- \[C1\]  *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao Shuo Yin, Yang Bai, Bei Yu, "SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design", accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)
+- \[C1\]  *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao, Shuo Yin, Yang Bai, Bei Yu, “SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), South Korea, Jan. 22–25, 2024.
 
 *Journal Paper*
-- \[J1\] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, *Shixin Chen*, Zixiao Wang, Bei Yu, "GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- \[J1\] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, *Shixin Chen*, Zixiao Wang, Bei Yu, "[https://doi.org/10.1109/TCAD.2023.3317169 GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores]", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
 == Awards
 ~~~
