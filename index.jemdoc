@@ -50,7 +50,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - \[C1\] *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao, Shuo Yin, Yang Bai, Bei Yu, “[http://arxiv.org/abs/2312.11820 SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), South Korea, Jan. 22–25, 2024.
 
 *Journal Paper*
-- \[J2\] *Shixin Chen*, Shanyi Li, Zhen Zhuang, Su Zheng, Zheng Liang, Tsung-Yi Ho, Bei Yu, Alberto L. Sangiovanni-Vincentelli, “Floorplet: Performance-aware Floorplan Framework for Chiplet Integration”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J2\] *Shixin Chen*, Shanyi Li, Zhen Zhuang, Su Zheng, Zheng Liang, Tsung-Yi Ho, Bei Yu, Alberto L. Sangiovanni-Vincentelli, “[https://ieeexplore.ieee.org/document/10375696 Floorplet: Performance-aware Floorplan Framework for Chiplet Integration]”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 - \[J1\] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, *Shixin Chen*, Zixiao Wang, Bei Yu, "[https://doi.org/10.1109/TCAD.2023.3317169 GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores]", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
 == Awards
