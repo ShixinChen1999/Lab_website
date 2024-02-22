@@ -25,8 +25,9 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 == Recent News
 ~~~
-- Dec/2023: *Congratulation!*  Our work on floorplanning of chiplet has been accepted by TCAD!
-- Sept/2023: *Congratulation!* Our work on DNN-targeting SoC design has been accepted by ASP-DAC!
+- Feb/2024:  *Congratulation!*  Our work on Winograd convolution FPGA IP generation has been accepted by DAC 2024!
+- Dec/2023:  *Congratulation!*  Our work on floorplanning of chiplet has been accepted by TCAD!
+- Sept/2023: *Congratulation!* Our work on DNN-targeting SoC design has been accepted by ASP-DAC 2024!
 - Aug/2022:  I start my Ph.D. study in Hong Kong.
 - Jun/2022:  I graduated with the honor of Outstanding Graduate of Jiangsu Province.
 - Apr/2022:  I am awarded the Hong Kong PhD Fellowship Scholarship since 2022.
@@ -47,7 +48,8 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 == Publication
 *Conference Paper*
-- \[C1\] *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao, Shuo Yin, Yang Bai, Bei Yu, “[http://arxiv.org/abs/2312.11820 SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), South Korea, Jan. 22–25, 2024.
+- \[C2\] Mingjun Li\*, Pengjia Li\*, Shuo Yin, *Shixin Chen*, Beichen Li, Chong Tong, Jianlei Yang, Tinghuan Chen, Bei Yu, “WinoGen: A Highly Configurable Winograd Convolution IP Generator for Efficient CNN Acceleration on FPGA”, ACM/IEEE Design Automation Conference (*DAC*), 2024.
+- \[C1\] *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao, Shuo Yin, Yang Bai, Bei Yu, “[http://arxiv.org/abs/2312.11820 SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), South Korea, Jan. 22–25, 2024.([http://sxchen.cn/resource/slides/ASPDAC_2024_SoC_Tuner-v2.pdf slides])
 
 *Journal Paper*
 - \[J2\] *Shixin Chen*, Shanyi Li, Zhen Zhuang, Su Zheng, Zheng Liang, Tsung-Yi Ho, Bei Yu, Alberto L. Sangiovanni-Vincentelli, “[https://ieeexplore.ieee.org/document/10375696 Floorplet: Performance-aware Floorplan Framework for Chiplet Integration]”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
@@ -73,8 +75,8 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
  Sichuan Chamber of Commerce Scholarship                  | Sichuan Chamber of Commerce of Jiangsu Province                                                 | 2019 ||    
  National Scholarship                                     | [http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html Education Ministry] of PRC| 2019 ||   
  People's Scholarship                                     | Nangjing University                                                                             | 2019 ||
- Student Model of Chengdu                                 | Education Ministry of Chengdu, Sichuan                                                          | 2017 || 
- Student Model of Liangshan Autonomous Prefecture         | Education Ministry of Liangshan Autonomous Prefecture, Sichuan                                  | 2014 ||
+ #Student Model of Chengdu                                 | Education Ministry of Chengdu, Sichuan                                                          | 2017 || 
+ #Student Model of Liangshan Autonomous Prefecture         | Education Ministry of Liangshan Autonomous Prefecture, Sichuan                                  | 2014 ||
 ~~~
  
  
@@ -103,6 +105,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 == Teaching
 - CSCI2010, 2023-Fall, Digital Logic Design Laboratory
 - CSCI3420, 2023-Spring, [http://www.cse.cuhk.edu.hk/~byu/CENG3420/2023Spring/index.html Computer Organiztaion and Design]
+- CSCI3420, 2024-Spring, [http://www.cse.cuhk.edu.hk/~byu/CENG3420/2024Spring/index.html Computer Organiztaion and Design]
 
 == Presentation
 #- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf slides])
