@@ -25,6 +25,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 == Recent News
 ~~~
+- Nov/2024： Our work on survey of 2.5D integration from EDA perspective is accepted by ASP-DAC 2024!
 - Feb/2024:  *Congratulations!*  Our work on Winograd convolution FPGA IP generation has been accepted by DAC 2024!
 - Dec/2023:  *Congratulations!*  Our work on floorplanning of chiplet has been accepted by TCAD!
 - Sept/2023: *Congratulations!* Our work on DNN-targeting SoC design has been accepted by ASP-DAC 2024!
@@ -41,15 +42,16 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 
 == Research Interests
 - Design Space Exploration of Architecture
+- 3D/2.5D IC and Chiplet
 - Agile Hardware Design
 - Hardware Accelerator
-- 3D IC and Chiplet
 - Machine Learning in EDA
 
 == Publication
 (\* represents equal contribution)
 
 *Conference Paper*
+- \[C3\] *Shixin Chen*, Hengyuan Zhang, Zichao Ling, Jianwang Zhai, Bei Yu, “The Survey of 2.5D Integrated Architecture: An EDA perspective”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Japan, Jan. 21–23, 2025. (*Invited Paper*)
 - \[C2\] Mingjun Li\*, Pengjia Li\*, Shuo Yin, *Shixin Chen*, Beichen Li, Chong Tong, Jianlei Yang, Tinghuan Chen, Bei Yu, “WinoGen: A Highly Configurable Winograd Convolution IP Generator for Efficient CNN Acceleration on FPGA”, ACM/IEEE Design Automation Conference (*DAC*), 2024.
 - \[C1\] *Shixin Chen*, Su Zheng, Chen Bai, Wenqian Zhao, Shuo Yin, Yang Bai, Bei Yu, “[http://arxiv.org/abs/2312.11820 SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), South Korea, Jan. 22–25, 2024.([http://sxchen.cn/resource/slides/ASPDAC_2024_SoC_Tuner-v2.pdf slides])
 
@@ -98,7 +100,9 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - ACM The International Symposium on Physical Design (ISPD) 2024
 - ACM Asia and South Pacific Design Automation Conference (ASP-DAC) 2025
 
+
 *Jornal Reviewer*
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).  
 - IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
 - ACM Transactions on Design Automation of Electronic Systems (TODAES)
 
@@ -114,9 +118,9 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - CSCI3420, 2023-Spring, [http://www.cse.cuhk.edu.hk/~byu/CENG3420/2023Spring/index.html Computer Organiztaion and Design]
 - CSCI3420, 2024-Spring, [http://www.cse.cuhk.edu.hk/~byu/CENG3420/2024Spring/index.html Computer Organiztaion and Design]
 
-== Presentation
+#== Presentation
 #- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf slides])
 #- A Brief Introduction to Gemmini ([http://sxchen.cn/resource/slides/Intro_to_Gemmini.pdf slides])
-- Design of DNN Accelerator Based on Winograd Algorithm using Chisel ([http://sxchen.cn/resource/slides/Winograd_Accelerator.pdf slides])
+#- Design of DNN Accelerator Based on Winograd Algorithm using Chisel ([http://sxchen.cn/resource/slides/Winograd_Accelerator.pdf slides])
 
 
